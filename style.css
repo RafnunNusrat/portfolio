@@ -1,9 +1,12 @@
-body{font-family: 'Dosis', sans-serif;}
-h1 {
-        font-size: 72px;
-        background: -webkit-linear-gradient(#dee3e4, #4002ec);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+body{
+    font-family: 'Dosis', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#dee3e4, #4002ec);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 h1{
     font-size: 50px;
@@ -16,10 +19,13 @@ h1{
     color:rgb(7, 239, 192)
 }
 .half-width{
-    width: 40%;
+    width: 45%;
     float: left;
     padding-left: 3%;
 }
 .half-width img{
  width: 100%;
+}
+.background{
+    background-image: url(images/back.jpg);
 }
