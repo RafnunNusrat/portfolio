@@ -1,0 +1,25 @@
+body{font-family: 'Dosis', sans-serif;}
+h1 {
+        font-size: 72px;
+        background: -webkit-linear-gradient(#dee3e4, #4002ec);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+h1{
+    font-size: 50px;
+}
+.floating{
+    flood-color: darkmagenta;
+    flood-opacity: 4.0;
+}
+.nameHighlight{
+    color:rgb(7, 239, 192)
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 3%;
+}
+.half-width img{
+ width: 100%;
+}
